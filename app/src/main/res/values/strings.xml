@@ -1,0 +1,96 @@
+<resources>
+
+    <string name="listimage">listimage</string>
+    <string name="imageview1">imageview1</string>
+    <string name="scan_mushroom">Scan Oyster Mushroom</string>
+    <string name="lis_of_medicinal_plants">List of Mushroom Diseases</string>
+    <string name="information">Information</string>
+    <string name="mushease">Mushease</string>
+    <string name="plantimage">mushroomimage</string>
+    <string name="gallery">Gallery</string>
+    <string name="confidences">confidences</string>
+    <string name="status">Status of the Oyster Mushroom:</string>
+    <string name="benefits_and_treatments">Information:</string>
+    <string name="description">Description: </string>
+    <string name="wallpaper3">wallpaper3</string>
+    <string name="plantimage1">plantimage1</string>
+    <string name="commonly_found_in">Commonly Found in:</string>
+    <string name="adescription">Description:</string>
+    <string name="abenefits_and_treatments">Benefits and Treatments:</string>
+    <string name="todo">TODO</string>
+    <string name="mushrooms">Mushroom Name</string>
+    <string name="located">Located</string>
+    <string name="_8_35_pm">8:35 pm</string>
+    <string name="todo1">TODO1</string>
+    <string name="list_of_plants">List of Diseases</string>
+    <string name="textview0">TextView0</string>
+    <string name="back">Back</string>
+    <string name="back2">Back</string>
+    <string name="Back">Back2</string>
+    <string name="exit">Exit</string>
+    <string name="textview">TextView</string>
+    <string name="back1">Back</string>
+    <string name="description1">Description:</string>
+
+    <string-array name="mushroom_list_name">
+        <item>Amethyst Deceiver</item>
+        <item>Beech</item>
+        <item>Chanterelle</item>
+        <item>Chicken of the Woods</item>
+        <item>Cremini</item>
+        <item>Enoki</item>
+        <item>Reishi</item>
+        <item>Hedgehog</item>
+        <item>King Trumpet</item>
+        <item>Lions Mane</item>
+        <item>Maitake</item>
+        <item>Matsutake</item>
+        <item>Morel</item>
+        <item>Oyster Mushroom</item>
+        <item>Porcini</item>
+        <item>Puffballs</item>
+        <item>Shiitake</item>
+
+    </string-array>
+
+    <string-array name="mushroom_list_sname">
+        <item>Laccaria Amethystina</item>
+        <item>Hypsizygus Tessellatus</item>
+        <item>antharellus Cibarius</item>
+        <item>Laetiporus Sulphureus</item>
+        <item>Agaricus Bisporus</item>
+        <item>Flammulina Velutipes</item>
+        <item>Ganoderma Lucidum</item>
+        <item>Hydnum Repandum</item>
+        <item>Pleurotus Eryngii</item>
+        <item>Hericium Erinaceus</item>
+        <item>Grifola Frondosa</item>
+        <item>Tricholoma Matsutake</item>
+        <item>Morchella Esculenta</item>
+        <item>Pleurotus Ostreatus</item>
+        <item>Boletus Edulis</item>
+        <item>Calvatia Gigantea</item>
+        <item>Lentinula Edodes</item>
+
+    </string-array>
+
+    <string-array name="mushroom_list_desc">
+        <item>The Amethyst Deceiver mushroom, scientifically known as Laccaria amethystina, is a small and vibrant fungus with striking purple hues. Its cap ranges from lilac to deep purple, contrasting against its pale stem, and it often thrives in mossy, damp environments. Despite its enticing appearance, this mushroom is not only visually captivating but also a fascinating contributor to forest ecosystems, forming mycorrhizal associations with trees.</item>
+        <item>Beech mushrooms, scientifically known as Hypsizygus tessellatus, are small, delicate fungi with a mild, slightly nutty flavor and a firm texture. These mushrooms, also called Buna shimeji or brown beech mushrooms, are commonly used in Asian cuisine, particularly in stir-fries, soups, and salads, adding both flavor and visual appeal to dishes. With their distinctive appearance and versatile culinary applications, beech mushrooms are a popular choice among chefs and home cooks alike.</item>
+        <item>Chanterelle mushrooms are prized for their vibrant golden color, delicate texture, and distinctive fruity aroma reminiscent of apricots. These wild mushrooms are often foraged in forests across Europe, North America, and Asia, adding a unique earthy and slightly peppery flavor to culinary dishes. With a meaty yet tender flesh, chanterelles are versatile ingredients that elevate soups, sauces, risottos, and more with their complex taste profile.</item>
+        <item>Chicken of the Woods, scientifically known as Laetiporus sulphureus, is a vibrant and edible mushroom characterized by its striking orange or yellow shelves. Found predominantly on the trunks of hardwood trees, particularly oak, it is sought after by foragers for its meaty texture and mild, chicken-like flavor when cooked. However, its crucial to identify it accurately, as it can occasionally cause gastrointestinal upset in some individuals.</item>
+        <item>Cremini mushrooms, also known as baby bellas, are a popular variety prized for their robust flavor and meaty texture. These versatile fungi boast a deeper, earthier taste compared to their more delicate counterparts, making them ideal for sautéing, grilling, or adding depth to sauces and soups. With a rich brown color and firm flesh, creminis offer a delicious addition to a wide range of culinary dishes.</item>
+        <item>Enoki mushrooms, scientifically known as Flammulina velutipes, are slender, delicate fungi with long, thin stems and tiny, button-like caps. They boast a mild, slightly sweet flavor and a crunchy texture, making them popular in Asian cuisine, particularly in soups, stir-fries, and salads. Enoki mushrooms are also valued for their potential health benefits, being a good source of nutrients like B vitamins, potassium, and antioxidants.</item>
+        <item>Ganoderma lucidum, commonly known as the reishi mushroom, is a revered medicinal fungus with a glossy, reddish-brown cap and a woody texture. Renowned for its potential health benefits, it has been used in traditional Chinese medicine for centuries to boost the immune system, reduce stress, and promote overall well-being. With its distinctive appearance and purported healing properties, Ganoderma lucidum continues to be a subject of scientific research and a staple in natural health practices worldwide.</item>
+        <item>Hedgehog mushrooms, scientifically known as Hydnum repandum, are prized edible fungi recognized for their unique appearance and delicate flavor. Their distinctive feature lies in the spiky teeth or "hedgehogs" on the underside of their caps, which distinguishes them from typical gilled mushrooms. Often found in various forest environments, these mushrooms add a gourmet touch to culinary dishes, particularly sautéed or roasted to highlight their nutty taste and firm texture.</item>
+        <item>The King Trumpet Mushroom, scientifically known as Pleurotus eryngii, is a prized edible fungus characterized by its thick, meaty stem and small, rounded cap. With a savory, umami flavor reminiscent of shellfish, its popular in various cuisines worldwide, often used in stir-fries, soups, and grilled dishes. Renowned for its meaty texture and robust flavor profile, the King Trumpet Mushroom stands out as a versatile and delicious ingredient for culinary enthusiasts.</item>
+        <item>Lions Mane mushroom, scientifically known as Hericium erinaceus, is a unique fungus with a striking appearance resembling a lions mane, hence its name. This medicinal mushroom is prized for its potential cognitive benefits, including promoting nerve growth and supporting brain health. With its delicate, seafood-like flavor, Lions Mane is not only cherished in traditional Asian cuisine but also gaining popularity worldwide for its potential health properties.</item>
+        <item>Maitake mushrooms, also known as hen of the woods, are prized for their rich, earthy flavor and distinctively layered, frilly appearance. With a firm texture and a savory taste reminiscent of umami, these mushrooms are versatile in culinary applications, adding depth to dishes such as stir-fries, soups, and risottos. Beyond their culinary appeal, maitake mushrooms are also celebrated for their potential health benefits, believed to support immune function and overall well-being.</item>
+        <item>Matsutake mushrooms, prized in culinary circles, are renowned for their distinctive spicy-aromatic scent and earthy flavor. These fungi are highly sought after in autumn, often growing beneath pine trees in forested regions. With a firm texture and complex taste, Matsutakes are celebrated for their rarity and seasonal availability.</item>
+        <item>Morel mushrooms are prized for their unique appearance, featuring a distinctive honeycomb-like texture and a cone-shaped cap. Known for their earthy, nutty flavor, they are highly sought after by gourmet chefs and foragers alike. Morels thrive in specific environments, often appearing in springtime in wooded areas with moist soil.</item>
+        <item>Oyster mushrooms, scientifically known as Pleurotus ostreatus, are a versatile and nutritious fungus characterized by their delicate flavor and velvety texture. These mushrooms grow in clusters, resembling oyster shells, and are commonly cultivated worldwide for their culinary appeal and health benefits, offering a rich source of protein, vitamins, and minerals. With a mild, earthy taste and the ability to absorb flavors well, oyster mushrooms are favored in various cuisines, from stir-fries to soups, making them a popular choice among both chefs and home cooks.</item>
+        <item>Porcini mushrooms, scientifically known as Boletus edulis, are prized for their rich, earthy flavor and meaty texture. They are characterized by their large, brown caps and thick, white stems, growing predominantly in coniferous forests. Renowned in culinary circles, porcini mushrooms are often featured in various dishes, adding depth and umami to sauces, soups, and risottos.</item>
+        <item>Puffball mushrooms are unique fungi characterized by their round, often white, fruiting bodies that can range from the size of a golf ball to a basketball. These mushrooms typically grow in meadows, fields, and forests, and are known for their distinctive spore dispersal method—when mature, they release clouds of powdery spores when disturbed. Puffballs are prized by foragers for their mild flavor and versatile culinary uses, often enjoyed sautéed, fried, or added to soups and stews.</item>
+        <item>Shiitake mushrooms are prized for their rich, savory flavor and meaty texture, making them a popular ingredient in various cuisines worldwide. With a distinctive earthy aroma, these mushrooms are versatile and can be used in stir-fries, soups, sauces, and even as a meat substitute in vegetarian dishes. Beyond their culinary appeal, shiitake mushrooms are also believed to offer various health benefits, including boosting the immune system and providing valuable nutrients like vitamins and minerals.</item>
+         </string-array>
+</resources>

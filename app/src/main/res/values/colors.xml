@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="beige">#D4B799</color>
+    <color name="red">#EC2802</color>
+    <color name="darkred">#BF0906</color>
+    <color name="darkblue">#041134</color>
+    <color name="blue">#26A1EE</color>
+    <color name="lightblue">#50CCFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown">#809F6662</color>
+    <color name="exitColor">#C62320</color>
+    <color name="Transparency">#00000000</color>
+    <color name="dirtywhite">#fff5df</color>
+
+
+</resources>

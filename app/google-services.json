@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478543891940",
+    "project_id": "herblife-7e7e7",
+    "storage_bucket": "herblife-7e7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478543891940:android:a6bc6667734f8cc03b4bf1",
+        "android_client_info": {
+          "package_name": "com.example.herblife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478543891940-utee8gcl80ag48cjg6pd2tmqa3pe8mms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3c-8gN0SGHutqtwr6I3r9ng2rBfPZPD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478543891940-utee8gcl80ag48cjg6pd2tmqa3pe8mms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
