@@ -1,2 +1,2 @@
 # Mushease
-Mushroom Scanner for disease Identification
+oyster mushroom scanner for disease identification
